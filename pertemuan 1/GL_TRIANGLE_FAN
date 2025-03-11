@@ -4,9 +4,10 @@ void gl_triangle_fan(void){
     glClear(GL_COLOR_BUFFER_BIT);
     glLineWidth(2.0f);
     glBegin(GL_TRIANGLE_FAN);
-    glVertex2f(-0.5f, 0.8f);
-    glVertex2f(-0.3f, 0.6f);
-    glVertex2f(-0.1f, 0.8f);
+    glVertex2f(-0.6f, 0.4f);
+    glVertex2f(-0.7f, 0.3f);
+    glVertex2f(-0.5f, 0.3f);
+    glVertex2f(-0.6f, 0.2f);
     glEnd();
     glFlush();
 }
