@@ -1,3 +1,5 @@
+#include <GLUT/glut.h>
+
 void gl_line_strip(void){
     glClear(GL_COLOR_BUFFER_BIT);
     glLineWidth(2.0f);
