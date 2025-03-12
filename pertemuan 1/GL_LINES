@@ -21,3 +21,5 @@ int main(int argc, char* argv[]) {
     glutMainLoop();
     return 0;
 }
+
+![Screenshot](https://github.com/syahlasandiani/submission-praktikum-GKV-E2/blob/main/pertemuan%201/GKV1_Garis.png)
